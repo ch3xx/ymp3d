@@ -1,0 +1,4 @@
+Flask
+youtube_dl
+ffmpeg
+youtube-search-python
