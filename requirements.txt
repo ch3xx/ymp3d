@@ -1,5 +1,6 @@
-Flask
+flask
+flask_limiter
 youtube_dl
-ffmpeg
 youtube-search-python
+ffmpeg
 gunicorn
